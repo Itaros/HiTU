@@ -1,0 +1,26 @@
+﻿# MISC
+itemGroup.hitechutilities=Hi-Tech Utilities
+key.categories.hitu=HiTU
+key.hitu.mode=Switch Tool Mode
+key.hitu.meta=Toggle Tool Meta Mode
+key.hitu.size.add=Increase Brush Size
+key.hitu.size.sub=Decrease Brush Size
+key.hitu.shape=Switch Brush Shape
+enum.hitu.build=Build
+enum.hitu.harvest=Harvest
+enum.hitu.harvest.atomize=Erase
+enum.hitu.harvest.silk=Silky Harvest
+enum.hitu.none=None
+enum.hitu.build.trade=Trade
+enum.hitu.build.trade.atomize=Paint
+enum.hitu.build.silk=Silky Trade
+enum.hitu.unknown=Unknown
+enum.hitu.uniform=Uniform
+enum.hitu.cube=Cube
+enum.hitu.plane=Plane
+enum.hitu.plane.extend=Plane Extend
+
+# ITEM NAMES
+item.hitechutilities:mattermanipulator.name=Matter Manipulator
+item.hitechutilities:ammospecial.name=Dense Matterball
+item.hitechutilities:mattereditationcore.name=Matter Editation Core
