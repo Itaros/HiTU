@@ -1,0 +1,27 @@
+# Keep Anton away :P
+# MISC
+itemGroup.hitechutilities=Hi-Tech Utilities
+key.categories.hitu=HiTU
+key.hitu.mode=Переключить режим
+key.hitu.meta=Переключить мета-режим
+key.hitu.size.add=Увеличить кисть
+key.hitu.size.sub=Уменьшить кисть
+key.hitu.shape=Переключить форму кисти
+enum.hitu.build=Строить
+enum.hitu.harvest=Собирать
+enum.hitu.harvest.atomize=Стирать
+enum.hitu.harvest.silk=Шёлковый сбор
+enum.hitu.none=Нет
+enum.hitu.build.trade=Обмен
+enum.hitu.build.trade.atomize=Рисовать
+enum.hitu.build.silk=Шёлковый обмен
+enum.hitu.unknown=Неизвестно
+enum.hitu.uniform=Униформно
+enum.hitu.cube=Куб
+enum.hitu.plane=Плоскость
+enum.hitu.plane.extend=Расширять по плоскости
+
+# ITEM NAMES
+item.hitechutilities:mattermanipulator.name=Манипулятор Материи
+item.hitechutilities:ammospecial.name=Плотный шар материи
+item.hitechutilities:mattereditationcore.name=Ядро перередактирования
